@@ -1,0 +1,34 @@
+body{
+    height: 100%;
+    background: #f1eeee;
+}
+body{
+    padding-bottom: 40px;
+}
+
+.d-flex{
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.form-login .form-floating input{
+width: 280px;
+}
+
+footer{
+    align-items: center;
+    justify-content: space-between;
+}
+
+.form-register .form-floating input{
+    width: 280px;
+}
+
+#register{
+    padding: 1.5rem;
+}
+#signin{
+    padding: 1.5rem;
+}
+
