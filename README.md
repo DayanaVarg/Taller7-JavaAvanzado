@@ -11,7 +11,7 @@ Proyecto diseñado y creado especialmente para la elaboración de trabajos y act
 
 ### Descripción
 ***
-* EL proyecto se basa principalmente en una serie de actividades o aplicativos web propuestos en la clase JAVA AVANZADO, todo con el fin de mejorar y ayudar a nuestro aprendizaje. Ya completamos con 5 aplicativos web, un index, un login, un formulario de registro,un formulario de registro para Categorías y un formulario de registro para Productos, cada uno con sus estilos correspondientes. Además de contar con la conexión a base de datos y sus respectivos beans, en este caso DBConnection, User, Category, y Product, sin dejar atrás el Repository Pattern de cada uno de ellos, con su respectiva intefaz Repository, y la clase que hace la implementación de esta. Agregando aquí, los servlets de cada una de nuestros beans, en este caso UserRegisterServlet, CategoryRegisterServlet y ProductRegisterServlet.
+* EL proyecto se basa principalmente en una serie de actividades o aplicativos web propuestos en la clase JAVA AVANZADO, todo con el fin de mejorar y ayudar a nuestro aprendizaje. Ya completamos con 5 aplicativos web, un index, un login, un formulario de registro, un formulario de registro para Categorías y un formulario de registro para Productos, cada uno con sus estilos correspondientes. Además de contar con la conexión a base de datos y sus respectivos beans, en este caso ConnectionPool, User, Category, y Product, sin dejar atrás el Repository Pattern de cada uno de ellos, con su respectiva interfaz Repository, y la clase que hace la implementación de esta. Agregando aquí, los servlets de cada una de nuestros beans, en este caso UserRegisterServlet, CategoryRegisterServlet y ProductRegisterServlet.
 
 ### Estado del proyecto
 ***
