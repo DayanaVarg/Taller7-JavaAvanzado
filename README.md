@@ -56,7 +56,7 @@ Proyecto diseñado y creado especialmente para la elaboración de trabajos y act
 
 #### UseConnectionPool
 ***
- *Con ayuda de esta podemos propar nuestra conección a la base de datos..
+ * Con ayuda de esta podemos probar nuestra conexión a la base de datos..
 ![image](https://user-images.githubusercontent.com/128272265/236643851-7bdd8373-c995-4d44-8fc1-0937ade2b3e8.png)
 
 #### Encrypt - Decrypt MySQL
@@ -69,26 +69,29 @@ Proyecto diseñado y creado especialmente para la elaboración de trabajos y act
   
 #### CategoryRepositoryImpl
 ***
-  * Sobre escribimos los métodos de la interfaz "Repository" para allí poder modificar, crear o realizar cualquier tipo de acción conla información de nuestra tabla user_tbl.
+  * Sobre escribimos los métodos de la interfaz "Repository" para allí poder modificar, crear o realizar cualquier tipo de acción con la información de nuestra tabla categories.
 
 #### ProductRepositoryImpl
 ***
-  * Sobre escribimos los métodos de la interfaz "Repository" para allí poder modificar, crear o realizar cualquier tipo de acción conla información de nuestra tabla user_tbl.
+  * Sobre escribimos los métodos de la interfaz "Repository" para allí poder modificar, crear o realizar cualquier tipo de acción con la información de nuestra tabla products.
 
 #### UserRegisterServlet
 ***
   * Recibe los datos enviados a traves del formulario de registrar Usuario, y llama el método necesario para el almacenamiento y la creación de un nuevo registro con estos.
+  
 ![image](https://github.com/DayanaVarg/Taller7-JavaAvanzado/assets/128272265/a69cedc6-a5f0-4484-ae1b-2588ca2484de)
 ![image](https://github.com/DayanaVarg/Taller7-JavaAvanzado/assets/128272265/8deb3eb4-5314-4e91-ae2c-d0b926a7173e)
 
 #### CategoryRegisterServlet
 ***
   * Recibe los datos enviados a traves del formulario de registrar Categoría, y llama el método necesario para el almacenamiento y la creación de un nuevo registro con estos.
+  
 ![image](https://github.com/DayanaVarg/Taller7-JavaAvanzado/assets/128272265/fe46fdc5-212d-4d5e-a8ec-98a3aa8cec1c)
 
 #### ProductRegisterServlet
 ***
   * Recibe los datos enviados a traves del formulario de registrar Producto, y llama el método necesario para el almacenamiento y la creación de un nuevo registro con estos.
+  
 ![image](https://github.com/DayanaVarg/Taller7-JavaAvanzado/assets/128272265/5b52ab31-1b79-4972-a424-283e3cbcc269)
 ![image](https://github.com/DayanaVarg/Taller7-JavaAvanzado/assets/128272265/6818e022-3e6a-43d5-b4b1-89bcec4c88f6)
   
