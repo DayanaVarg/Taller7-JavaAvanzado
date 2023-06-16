@@ -25,6 +25,9 @@ Proyecto diseñado y creado especialmente para la elaboración de trabajos y act
 
 * Dentro de la etiqueta <body> colocamos:
 'div class="container"' este será nuestro contenedor principal, dentro de esta etiqueta se encuentra 'header' '/header' es la cabecera principal de nuestra interfaz, 'nav' '/nav' es la barra de navegación de nuestra interfaz. Dentro de la etiqueta 'section' va el contenido principal de nuestra página en este caso en primer lugar tenemos un "img" con la imágen que deseamos, acompañada por dos títulos donde nos indica que tenemos varias opciones para ingresar. A continuación tenemos 4 botones, donde cada uno de ellos nos llevará a la interfaz que indique.
+
+  ![image](https://github.com/DayanaVarg/Taller7-JavaAvanzado/assets/128272265/6074473d-02d9-43ae-b0ba-41408390c3bd)
+
   
 #### Login
 ***
@@ -35,18 +38,27 @@ Proyecto diseñado y creado especialmente para la elaboración de trabajos y act
   
 * Especialmente funciona para el logeado de una usuario, además de ser acompañado por la opción de resgistrarse en caso tal de no tener un usuario.
 
+  ![image](https://github.com/DayanaVarg/Taller4_5_JavaWeb/assets/128272265/b551b1e7-9d0a-44c4-9de8-4a8135e803a0)
 
 #### Formulario de registro
 ***
 * Cuenta con las mismas etiquetas del Login, salvo que contiene más 'input' y 'label' debido a que son más campos de registro. Especialmente funciona para el registro de un usuario nuevo, solicitando datos como: Nombre, Apellido, Correo y Contraseña.
+  
+  ![image](https://github.com/DayanaVarg/Taller4_5_JavaWeb/assets/128272265/2472f30b-c473-4918-9da0-b4bfc84239ec)
 
 #### Formulario de registro para Categorías
 ***
 * Cuenta con las mismas etiquetas del Login, salvo que aquí solo contiene un input, para almacenar el nombre de la categoría. Especialmente funciona para el registro de una categoría nueva.
 
+  ![image](https://github.com/DayanaVarg/Taller7-JavaAvanzado/assets/128272265/2d63c5e0-4b82-40cf-a926-f1d3f30abb07)
+
+
 #### Formulario de registro para Productos
 ***
 * Cuenta con las mismas etiquetas del Login, contiene tres inputs, para almacenar el nombre del producto, su valor, y la categoría a la que pertenece. Especialmente funciona para el registro de un producto nuevo.
+
+  ![image](https://github.com/DayanaVarg/Taller7-JavaAvanzado/assets/128272265/47275c3c-0bcc-4cf5-a3b7-6cf7ab025982)
+
 
 #### ConnectionPool
 ***
